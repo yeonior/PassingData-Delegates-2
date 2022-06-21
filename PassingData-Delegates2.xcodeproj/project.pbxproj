@@ -13,6 +13,7 @@
 		A2042F1227BFC5A400C4EB0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2042F1027BFC5A400C4EB0A /* Main.storyboard */; };
 		A2042F1427BFC5A600C4EB0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2042F1327BFC5A600C4EB0A /* Assets.xcassets */; };
 		A2042F1727BFC5A600C4EB0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2042F1527BFC5A600C4EB0A /* LaunchScreen.storyboard */; };
+		A2042F1F27BFC5BC00C4EB0A /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2042F1E27BFC5BC00C4EB0A /* MyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A2042F1327BFC5A600C4EB0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2042F1627BFC5A600C4EB0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2042F1827BFC5A600C4EB0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2042F1E27BFC5BC00C4EB0A /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A2042F0A27BFC5A400C4EB0A /* AppDelegate.swift */,
 				A2042F0C27BFC5A400C4EB0A /* SceneDelegate.swift */,
 				A2042F0E27BFC5A400C4EB0A /* ViewController.swift */,
+				A2042F1E27BFC5BC00C4EB0A /* MyView.swift */,
 				A2042F1027BFC5A400C4EB0A /* Main.storyboard */,
 				A2042F1327BFC5A600C4EB0A /* Assets.xcassets */,
 				A2042F1527BFC5A600C4EB0A /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2042F1F27BFC5BC00C4EB0A /* MyView.swift in Sources */,
 				A2042F0F27BFC5A400C4EB0A /* ViewController.swift in Sources */,
 				A2042F0B27BFC5A400C4EB0A /* AppDelegate.swift in Sources */,
 				A2042F0D27BFC5A400C4EB0A /* SceneDelegate.swift in Sources */,
